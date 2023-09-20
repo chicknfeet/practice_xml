@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
 <students>
     <student>
         <name>Carl Angelo Maniangap</name>
@@ -26,7 +27,7 @@
 
     <student>
         <name>Rostelyn Abundia</name>
-        <age>21</age>
+        <age>20</age>
         <address>Orani</address>
     </student>
 
@@ -98,7 +99,7 @@
 
     <student>
         <name>Juanito Bugay</name>
-        <age>34</age>
+        <age>48</age>
         <address>Samal</address>
     </student>
 
