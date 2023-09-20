@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<students>
+    <student>
+        <name>Carl Angelo Maniangap</name>
+        <age>21</age>
+        <address>Orani</address>
+    </student>
+
+    <student>
+        <name>John Aldrin Portugal</name>
+        <age>20</age>
+        <address>Lalawigan</address>
+    </student>
+
+    <student>
+        <name>Denn Harenz Escat</name>
+        <age>20</age>
+        <address>Samal</address>
+    </student>
+
+    <student>
+        <name>David Deleon</name>
+        <age>21</age>
+        <address>Balanga</address>
+    </student>
+
+    <student>
+        <name>Rostelyn Abundia</name>
+        <age>21</age>
+        <address>Orani</address>
+    </student>
+
+    <student>
+        <name>Benjamin Deleon</name>
+        <age>23</age>
+        <address>Pilar</address>
+    </student>
+
+    <student>
+        <name>Adlene Mae Vio</name>
+        <age>21</age>
+        <address>Balanga</address>
+    </student>
+
+    <student>
+        <name>Chris Pangilinan</name>
+        <age>21</age>
+        <address>Orani</address>
+    </student>
+
+    <student>
+        <name>Jehosa Phat Borja</name>
+        <age>23</age>
+        <address>Balanga</address>
+    </student>
+
+    <student>
+        <name>Daniel Teddy Llanda</name>
+        <age>20</age>
+        <address>Samal</address>
+    </student>
+
+    <student>
+        <name>Jan Rein Gwyneth Salut</name>
+        <age>20</age>
+        <address>Bagac</address>
+    </student>
+
+    <student>
+        <name>Allysa Denise Opemaria</name>
+        <age>20</age>
+        <address>Abucay</address>
+    </student>
+
+    <student>
+        <name>John Alfer Mendoza</name>
+        <age>23</age>
+        <address>Orani</address>
+    </student>
+
+    <student>
+        <name>Natali Guinto</name>
+        <age>20</age>
+        <address>Calaguiman</address>
+    </student>
+
+    <student>
+        <name>John Jeremy Digdigan</name>
+        <age>21</age>
+        <address>Calaguiman</address>
+    </student>
+
+    <student>
+        <name>John Reyel Vargas</name>
+        <age>21</age>
+        <address>Calaguiman</address>
+    </student>
+
+    <student>
+        <name>Juanito Bugay</name>
+        <age>34</age>
+        <address>Samal</address>
+    </student>
+
+    <student>
+        <name>John Patrick Pider</name>
+        <age>21</age>
+        <address>Bagac</address>
+    </student>
+
+    <student>
+        <name>Joshua Jay Fabila</name>
+        <age>20</age>
+        <address>Balanga</address>
+    </student>
+
+</students>
